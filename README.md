@@ -44,3 +44,4 @@ test_data
 final_issue
 dot
 world_cup
+husky
