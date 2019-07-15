@@ -57,3 +57,4 @@ phone
 click
 wire
 glass
+sofa
