@@ -80,3 +80,4 @@ test-openshift
 desk
 tip
 hotel
+test-bug-1
