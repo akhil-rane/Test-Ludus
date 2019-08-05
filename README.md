@@ -79,3 +79,4 @@ test17
 test-openshift
 desk
 tip
+hotel
