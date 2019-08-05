@@ -84,3 +84,4 @@ test-bug-1
 mouse
 key
 text
+x
